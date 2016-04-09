@@ -2,5 +2,6 @@ _cache
 _site
 dist
 
-.cabal_sandbox
+.cabal-sandbox
 cabal.sandbox.config
+site
