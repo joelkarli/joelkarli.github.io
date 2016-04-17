@@ -2,4 +2,4 @@
 title: Home
 ----
 
-Download the latest chestega database: [chestega.db](chestega.db)
+Download the latest chestega-cover database: [chestega.db](chestega.db)
